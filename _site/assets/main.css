@@ -55,6 +55,16 @@ since it must be aligned with the content */
   font-size: 1.3em;
   text-align: center; }
 
+main.essay {
+  width: 100%;
+  margin-left: 0%;
+  text-align: left; }
+
+header.essay {
+  float: none;
+  width: 92%;
+  text-align: center; }
+
 .test {
   color: #CE534D;
   background-color: rgba(202, 219, 229, 0.3);
