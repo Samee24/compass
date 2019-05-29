@@ -1,15 +1,24 @@
 # general configuration
-url: http://excentris.net
+url: http://samee.ninja
 baseurl: ''
+
+defaults:
+  -
+    values:
+      layout: essay
+      comments: false
+      # author will appear under the avatar
+      author: "Samee Zahid"
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/sine-curve.png"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Samee Zahid"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Software Engineer at Google."
+  quote: "It's not a silly question if you can't answer it."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -18,7 +27,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "compass"
+  twitter: "samee_24"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

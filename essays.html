@@ -1,0 +1,11 @@
+---
+layout: base
+---
+<ul class="main-list">
+    {% for essay in site.posts %}
+    <li class="main-list-item">
+        <a href="{{ essay.url }}">{{ essay.title }}</a>
+        ({{ essay.date | date: "%d/%m/%Y" }})
+    </li>
+    {% endfor %}
+</ul>

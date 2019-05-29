@@ -1,9 +1,9 @@
 ---
 ---
 
-$text-color: #46433A;
+$text-color: #CADBE5;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: #1E2022;
 
 body {
 	font-family: 'Vollkorn', serif;
@@ -57,17 +57,7 @@ since it must be aligned with the content */
 /*** logo ***/
 .logo-container {
 	text-align: center;
-}
-
-.logo {
-	width: 96px;
-	height: 96px;
-	display: inline-block;
-	background-size: cover;
-	border-radius: 50%;
-	-moz-border-radius: 50%;
-	border: 2px solid $background-color;
-	box-shadow: 0 0 0 3px $text-color;
+	margin-bottom: 5%;
 }
 
 /*** author ***/
@@ -82,7 +72,64 @@ since it must be aligned with the content */
 .tagline-container p {
 	font-size: 1.3em;
 	text-align: center;
-	margin-bottom: 2em;
+}
+
+.test {
+  color: #CE534D;
+  background-color: rgba(202, 219, 229, .3);
+  border-radius: 6px;
+  padding: 3px 6px;
+}
+
+.test:hover {
+  font-size: 0;
+  background-color: rgba(202, 219, 229, 0);
+    border-radius: 0px;
+  padding: 0px 0px;
+}
+
+.test:hover:before {
+  font-size: 16px;
+  border-radius: 6px;
+  background-color: rgba(202, 219, 229, .3);
+  padding: 3px 6px;
+  content: attr(data-hover);
+}
+
+@keyframes move{
+
+	0%
+	{
+		background-position: 0 0;
+	}
+
+	100%
+	{
+		background-position: -100px 0;
+	}
+
+}
+
+.logo
+{
+  display: inline-block;
+  vertical-align: middle;
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	overflow: hidden;
+	border: 3.6px solid #CADBE5;
+	background: url(http://svgur.com/i/DJH.svg);
+	background-size: 100px 100px;
+	background-position: 0 0;
+  background-color: #1E2022;
+	background-repeat: repeat-x;
+	animation: move 1.75s linear infinite;
+}
+
+.logo:hover {
+animation-play-state: paused
+
 }
 
 /******/
@@ -144,7 +191,7 @@ footer {
 
 	main {
 		width: 46%;
-		margin-left: 54%;
+		margin-left: 58%;
 		padding: 0;
 	}
 }
