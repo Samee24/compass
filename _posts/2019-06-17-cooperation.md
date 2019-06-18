@@ -58,7 +58,7 @@ Now, we simulate the game for a certain number of rounds (*N=10*).  Since player
 
 ```30(nice_interactions) + 9(1 - nice_interactions)```
 
-Given this, we see the critical value of *nice_interactions* to eclipse a pay-off consisting of only defects is a **minuscule** *0.05*. If a nice player in *Mean World* only has 5% of its interactions with other nice players, that pay-off will eclipse those of purely selfish players. Just **5%**!
+Given this, we see the critical value of *nice_interactions* to eclipse a pay-off consisting of only defects is a **minuscule** *0.05*. If a nice player in *Mean World* only has 5% of its interactions with other nice players, the total pay-off will eclipse that of a purely selfish player. Just **5%**!
 
 This also assumes interactions will be random; a more accurate model will integrate the idea that nice players are more likely to repeat interactions with nice players, which would plummet the 5% requirement.
 
@@ -69,7 +69,7 @@ Cooperation can be visible even in symbiotic/parasitic relationships in nature, 
 
 * Enemy soldiers [cooperating in WW1 trenches](https://www.ias.edu/ideas/2014/chiu-war) to hold unofficial truces.
 
-The emergence of cooperation posits an optimistic vision for humanity. It allows us to search for positive-sum games when designing policy or systems, and underpins a mathematical foundation for being nice in general. Perhaps it shouldn’t come as a surprise why cultural wisdom always calls for a need to forgive and collaborate.
+The emergence of cooperation posits an optimistic vision for humanity. It allows us to search for positive-sum games when designing policy or systems, and underpins a mathematical foundation for being nice in general. Perhaps it shouldn’t come as a surprise why cultural wisdom always called for a need to forgive and collaborate.
 
 <br>
 
