@@ -18,7 +18,7 @@ compass:
   author: "Samee Zahid"
   # tagline will appear under the title (optional)
   tagline: "Software Engineer at Google."
-  quote: "It's not a silly question if you can't answer it."
+  quote: ""
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
