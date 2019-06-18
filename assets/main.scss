@@ -1,7 +1,7 @@
 ---
 ---
 
-$text-color: #CADBE5;
+$text-color: #e3eff7;
 $anchor-text-color: #CE534D;
 $background-color: #1E2022;
 
@@ -9,6 +9,7 @@ body {
 	font-family: 'Vollkorn', serif;
 	color: $text-color;
 	background-color: $background-color;
+	line-height: 1.6;
 }
 
 header,
@@ -131,7 +132,7 @@ header.essay {
 	border-radius: 100%;
 	overflow: hidden;
 	border: 3.6px solid #CADBE5;
-	background: url(http://svgur.com/i/DJH.svg);
+	background: url(/svg/sine.svg);
 	background-size: 100px 100px;
 	background-position: 0 0;
   background-color: #1E2022;
