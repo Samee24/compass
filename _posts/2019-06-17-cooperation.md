@@ -3,7 +3,7 @@ title: Understanding Cooperative Behavior
 comments: false
 ---
 
-I’ve recently developed an interest in grasping the extent to which humans can collectively establish their future, especially under the current fractured political climate where nationalist thought has made a vivacious comeback.  I wanted to see whether we can scientifically make any strong claims about cooperation. I came across a fantastic book by Robert Axelrod  [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640) which attempts to satiate my curioisity. This essay is mostly a summation and analysis of the book's strongest points.
+I’ve recently developed an interest in grasping the extent to which humans can collectively establish their future, especially under the current fractured political climate where nationalist thought has made a vivacious comeback.  I wanted to see whether we can scientifically make any strong claims about cooperation. I came across a fantastic book by Robert Axelrod  [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640) which attempts to drive that discussion. This essay is mostly a summation and analysis of the book's strongest points.
 
 ## Some background motivation
 Is it worth being nice? The domain of decision-making and choice utility — governed by game theory — offers us insight into how decision-making strategies perform and operate over a long span of time.
