@@ -8,7 +8,7 @@ I’ve recently developed an interest in grasping the extent to which humans can
 ## Some background motivation
 Is it worth being nice? The domain of decision-making and choice utility — governed by game theory — offers us insight into how decision-making strategies perform and operate over a long span of time.
 
-Our current suite of strategies are inherited through mimesis and biological instinct. Most people believe Darwinian and Capitalist  ideology renders zero-sum game playing as the rational and effective strategy. Is that true, or can we understand and implement cooperation using an ontology provided by game theory?
+Our current suite of strategies are inherited through mimesis and biological instinct. Most people believe Darwinian and Capitalist  ideology renders zero-sum game playing as the rational and effective strategy. Is that true, or can we understand and promote cooperation using a framework provided by game theory?
 
 ## How rewarding is cooperative behavior?
 Research around cooperation has centered around playing iterated versions of Prisoner’s Dilemma. Going from a one-off game to a continuous series with a familiar pool of players introduces complexity that more closely mirrors real-world scenarios.  Robert Axelrod, a researcher at University of Michigan, arranged a round-robin tournament to let different strategies compete amongst themselves. Amongst those submitted, the top performing strategy was *TIT-FOR-TAT*:
