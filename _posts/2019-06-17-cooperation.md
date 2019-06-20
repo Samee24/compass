@@ -3,7 +3,9 @@ title: Understanding Cooperative Behavior
 comments: false
 ---
 
-I’ve recently developed an interest in grasping the extent to which humans can collectively establish their future, especially under the current fractured political climate where nationalist thought has made a vivacious comeback.  I wanted to see whether we can scientifically make any strong claims about cooperation. I came across a fantastic book by Robert Axelrod  [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640) which attempts to drive that discussion. This essay is mostly a summation and analysis of the book's strongest points.
+I’ve recently developed an interest in grasping the extent to which humans can collectively establish their future, especially under the current fractured political climate where nationalist thought has made a vivacious comeback.  More specifically, I wanted to see whether there are any scientifically strong claims we can make make about cooperation.
+
+I came across a fantastic book by Robert Axelrod  [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640) which attempts to drive that discussion. This essay is mostly a summation and analysis of the book's strongest points.
 
 ## Some background motivation
 Is it worth being nice? The domain of decision-making and choice utility — governed by game theory — offers us insight into how decision-making strategies perform and operate over a long span of time.
@@ -58,7 +60,7 @@ Now, we simulate the game for a certain number of rounds (*N=10*).  Since player
 
 ```30(nice_interactions) + 9(1 - nice_interactions)```
 
-Given this, we see the critical value of *nice_interactions* to eclipse a pay-off consisting of only defects is a **minuscule** *0.05*. If a nice player in *Mean World* only has 5% of its interactions with other nice players, the total pay-off will eclipse that of a purely selfish player. Just **5%**!
+Given this, we see the critical value of *nice_interactions* to eclipse a pay-off consisting of only defects is a **minuscule** *0.05*. If a nice player in *Mean World* 5% of its interactions with other nice players, it will position itself to succeed over a purely selfish player. Just **5%**!
 
 This also assumes interactions will be random; a more accurate model will integrate the idea that nice players are more likely to repeat interactions with nice players, which would plummet the 5% requirement.
 
