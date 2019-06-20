@@ -79,8 +79,6 @@ The emergence of cooperation posits an optimistic vision for humanity. It allows
 
 ---
 
-<br>
-
 ## Resources
 * R. Axelrod, [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640). London: Basic Books; Revised edition, 1990.
 * Slides by [Martin Novak](http://web.mit.edu/9.s915/www/classes/slides_nowak.pdf).
